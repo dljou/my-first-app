@@ -1,4 +1,4 @@
-This is my ToDo App [Live Dployment]()
+This is my ToDo App [Live Deloyment]()
 
 # Getting Started with Create React App
 
